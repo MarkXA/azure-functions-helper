@@ -1,0 +1,13 @@
+{
+  "name": "mxa-azure-functions-helper",
+  "version": "1.0.0-alpha.0",
+  "license": "MIT",
+  "homepage": "https://github.com/MarkXA/AzureFunctionsHelper",
+  "repository": "MarkXA/AzureFunctionsHelper",
+  "author": "Mark Allan <mark@ranyart.com>",
+  "description": "Some NodeJS helper functions for Azure Functions",
+  "main": "index.js",
+  "dependencies": {
+    "azure": "^1.2.0-preview"
+  }
+}
